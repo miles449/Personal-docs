@@ -16,19 +16,19 @@
       },
       {
         "group": "Menu",
-        "pages": ["menu/menu", "menu/seasonal"]
+        "pages": ["menu", "seasonal"]
       },
       {
         "group": "Ingredients",
-        "pages": ["ingredients/sourcing", "ingredients/allergens"]
+        "pages": ["sourcing", "allergens"]
       },
       {
         "group": "Locations",
-        "pages": ["locations/find-us"]
+        "pages": ["find-us"]
       },
       {
         "group": "About",
-        "pages": ["about/our-story", "about/sustainability", "about/catering"]
+        "pages": ["our-story", "sustainability", "catering"]
       }
     ]
   },
