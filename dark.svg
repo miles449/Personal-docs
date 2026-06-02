@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" fill="none">
+  <!-- Fish icon -->
+  <g transform="translate(0, 4)">
+    <!-- Body -->
+    <ellipse cx="18" cy="16" rx="13" ry="8" fill="#4FC3B0"/>
+    <!-- Tail -->
+    <polygon points="3,8 3,24 0,28 0,4" fill="#4FC3B0"/>
+    <!-- Tail fin -->
+    <polygon points="0,4 0,28 -5,30 -5,2" fill="#0E7A6D"/>
+    <!-- Eye -->
+    <circle cx="24" cy="14" r="2" fill="#0A1A18"/>
+    <circle cx="24.7" cy="13.3" r="0.8" fill="#4FC3B0"/>
+    <!-- Fin -->
+    <path d="M14,8 Q20,2 26,8" stroke="#0E7A6D" stroke-width="1.5" fill="none"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="38" y="26" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#4FC3B0">My Fish Guy</text>
+</svg>
